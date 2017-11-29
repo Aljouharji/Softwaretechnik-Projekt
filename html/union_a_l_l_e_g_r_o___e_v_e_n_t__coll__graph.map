@@ -1,0 +1,10 @@
+<map id="ALLEGRO_EVENT" name="ALLEGRO_EVENT">
+<area shape="rect" id="node2" href="$struct_a_l_l_e_g_r_o___t_i_m_e_r___e_v_e_n_t.html" title="ALLEGRO_TIMER_EVENT" alt="" coords="22,5,207,32"/>
+<area shape="rect" id="node3" href="$struct_a_l_l_e_g_r_o___k_e_y_b_o_a_r_d___e_v_e_n_t.html" title="ALLEGRO_KEYBOARD_EVENT" alt="" coords="5,56,224,83"/>
+<area shape="rect" id="node4" href="$struct_a_l_l_e_g_r_o___d_i_s_p_l_a_y___e_v_e_n_t.html" title="ALLEGRO_DISPLAY_EVENT" alt="" coords="15,107,215,133"/>
+<area shape="rect" id="node5" href="$struct_a_l_l_e_g_r_o___m_o_u_s_e___e_v_e_n_t.html" title="ALLEGRO_MOUSE_EVENT" alt="" coords="19,157,211,184"/>
+<area shape="rect" id="node6" href="$struct_a_l_l_e_g_r_o___u_s_e_r___e_v_e_n_t.html" title="ALLEGRO_USER_EVENT" alt="" coords="24,208,205,235"/>
+<area shape="rect" id="node7" href="$struct_a_l_l_e_g_r_o___j_o_y_s_t_i_c_k___e_v_e_n_t.html" title="ALLEGRO_JOYSTICK_EVENT" alt="" coords="10,259,219,285"/>
+<area shape="rect" id="node8" href="$struct_a_l_l_e_g_r_o___t_o_u_c_h___e_v_e_n_t.html" title="ALLEGRO_TOUCH_EVENT" alt="" coords="19,309,210,336"/>
+<area shape="rect" id="node9" href="$struct_a_l_l_e_g_r_o___a_n_y___e_v_e_n_t.html" title="ALLEGRO_ANY_EVENT" alt="" coords="29,360,200,387"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TurnTile::TurnTile" name="TurnTile::TurnTile">
+<area shape="rect" id="node2" href="$class_turn_tile.html#a0b53f2088879a76a59395ed17d9c9732" title="TurnTile::updateTurnTile" alt="" coords="177,5,340,32"/>
+<area shape="rect" id="node3" href="$class_turn_tile.html#abe3b928a49ca9c38fd109d23e8d9631a" title="TurnTile::checkClick" alt="" coords="187,56,330,83"/>
+</map>

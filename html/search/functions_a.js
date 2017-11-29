@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['main',['main',['../alandroid_8h.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;Snake.cpp'],['../_snake_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;Snake.cpp']]],
+  ['make_5fduh',['make_duh',['../_allegro_85_82_82_80_2build_2native_2include_2dumb_8h.html#ade15b4833c39062976b9934f67826f80',1,'make_duh(long length, int n_tags, const char *const tag[][2], int n_signals, DUH_SIGTYPE_DESC *desc[], sigdata_t *sigdata[]):&#160;dumb.h'],['../_allegro_deps_81_85_80_80_2build_2native_2include_2dumb_8h.html#ade15b4833c39062976b9934f67826f80',1,'make_duh(long length, int n_tags, const char *const tag[][2], int n_signals, DUH_SIGTYPE_DESC *desc[], sigdata_t *sigdata[]):&#160;dumb.h']]],
+  ['metrics',['metrics',['../_allegro_85_82_82_80_2build_2native_2include_2freetype2_2fterrdef_8h.html#a8da424446f502b9d5ce1ba924c5316bc',1,'metrics(hmtx) table missing&quot; ) FT_ERRORDEF_( Post_Table_Missing:&#160;fterrdef.h'],['../_allegro_deps_81_85_80_80_2build_2native_2include_2freetype2_2fterrdef_8h.html#a8da424446f502b9d5ce1ba924c5316bc',1,'metrics(hmtx) table missing&quot; ) FT_ERRORDEF_( Post_Table_Missing:&#160;fterrdef.h']]]
+];

@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_player.html#aecc22eb2a93332f2602bccaa4e889ec1" title="Player::getInput" alt="" coords="131,5,246,32"/>
+<area shape="rect" id="node3" href="$class_level.html#ae934de5177cb513abf8a442816be9927" title="Level::start" alt="" coords="145,56,232,83"/>
+<area shape="rect" id="node4" href="$class_level.html#aa0e6630f2d697065201ccd8a79b288dc" title="Level::init" alt="" coords="149,107,228,133"/>
+<area shape="rect" id="node5" href="$class_level.html#ab33fd15de6f54b9ed7b1e6ebc6b5dae0" title="Level::returnTurnTiles" alt="" coords="115,157,263,184"/>
+<area shape="rect" id="node6" href="$class_level.html#a7e7456dab08ca093aa9309c4f79d9633" title="Level::setTurnTiles" alt="" coords="122,208,255,235"/>
+<area shape="rect" id="node7" href="$class_player.html#aad5cb828642c5f29f2327beaec497769" title="Player::updatePlayer" alt="" coords="117,259,260,285"/>
+<area shape="rect" id="node9" href="$class_player.html#a057068f30bb6e25be256f44bc95e58dc" title="Player::collideBarrier" alt="" coords="117,309,260,336"/>
+<area shape="rect" id="node10" href="$class_level.html#ad2136eb7338ac2f311eeda61cb745898" title="Level::returnWalls" alt="" coords="125,360,252,387"/>
+<area shape="rect" id="node11" href="$class_player.html#a2e2123129b8eeb38b47272ee26d22887" title="Player::collideTurnTile" alt="" coords="113,411,264,437"/>
+<area shape="rect" id="node12" href="$class_level.html#acfdce6e5583a2a9b756b9cba21d2dad1" title="Level::setCollectables" alt="" coords="113,461,264,488"/>
+<area shape="rect" id="node13" href="$class_player.html#ace632f10845b01e87e3fdb53acc739b5" title="Player::collideCollectable" alt="" coords="104,512,273,539"/>
+<area shape="rect" id="node14" href="$class_level.html#a7cf6272efd3b22788445b66146ac197e" title="Level::returnCollectables" alt="" coords="105,563,272,589"/>
+<area shape="rect" id="node15" href="$class_level.html#a4867d1a299ca94836f03c782043153f9" title="Level::updateLevel" alt="" coords="123,613,254,640"/>
+<area shape="rect" id="node8" href="$class_barrier.html#ac906aec3bd97e64ed15c74984bd99d4a" title="Barrier::init" alt="" coords="321,259,407,285"/>
+</map>

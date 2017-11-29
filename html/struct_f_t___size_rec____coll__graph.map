@@ -1,0 +1,18 @@
+<map id="FT_SizeRec_" name="FT_SizeRec_">
+<area shape="rect" id="node4" href="$struct_f_t___face_rec__.html" title="FT_FaceRec_" alt="" coords="526,345,631,371"/>
+<area shape="rect" id="node2" href="$struct_f_t___generic__.html" title="FT_Generic_" alt="" coords="21,187,118,214"/>
+<area shape="rect" id="node12" href="$struct_f_t___glyph_slot_rec__.html" title="FT_GlyphSlotRec_" alt="" coords="752,131,885,158"/>
+<area shape="rect" id="node3" href="$struct_f_t___size___metrics__.html" title="FT_Size_Metrics_" alt="" coords="5,371,133,398"/>
+<area shape="rect" id="node8" href="$struct_f_t___char_map_rec__.html" title="FT_CharMapRec_" alt="" coords="754,371,883,398"/>
+<area shape="rect" id="node5" href="$struct_f_t___stream_rec__.html" title="FT_StreamRec_" alt="" coords="247,551,365,578"/>
+<area shape="rect" id="node6" href="$struct_f_t___memory_rec__.html" title="FT_MemoryRec_" alt="" coords="8,459,131,486"/>
+<area shape="rect" id="node7" href="$union_f_t___stream_desc__.html" title="FT_StreamDesc_" alt="" coords="7,551,132,578"/>
+<area shape="rect" id="node9" href="$struct_f_t___bitmap___size__.html" title="FT_Bitmap_Size_" alt="" coords="243,602,369,629"/>
+<area shape="rect" id="node10" href="$struct_f_t___list_rec__.html" title="FT_ListRec_" alt="" coords="257,270,355,297"/>
+<area shape="rect" id="node11" href="$struct_f_t___list_node_rec__.html" title="FT_ListNodeRec_" alt="" coords="5,291,133,318"/>
+<area shape="rect" id="node13" href="$struct_f_t___outline__.html" title="FT_Outline_" alt="" coords="532,131,625,158"/>
+<area shape="rect" id="node14" href="$struct_f_t___vector__.html" title="FT_Vector_" alt="" coords="261,137,351,163"/>
+<area shape="rect" id="node15" href="$struct_f_t___bitmap__.html" title="FT_Bitmap_" alt="" coords="532,30,625,57"/>
+<area shape="rect" id="node16" href="$struct_f_t___glyph___metrics__.html" title="FT_Glyph_Metrics_" alt="" coords="511,81,647,107"/>
+<area shape="rect" id="node17" href="$struct_f_t___b_box__.html" title="FT_BBox_" alt="" coords="264,321,348,347"/>
+</map>

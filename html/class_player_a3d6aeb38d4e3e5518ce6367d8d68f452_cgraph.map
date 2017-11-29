@@ -1,0 +1,9 @@
+<map id="Player::Player" name="Player::Player">
+<area shape="rect" id="node2" href="$class_player.html#a67af9d4dd8fc28fd0f3adab3fa1f7904" title="Player::resetPos" alt="" coords="183,5,301,32"/>
+<area shape="rect" id="node3" href="$class_player.html#aecc22eb2a93332f2602bccaa4e889ec1" title="Player::getInput" alt="" coords="185,56,299,83"/>
+<area shape="rect" id="node4" href="$class_player.html#aad5cb828642c5f29f2327beaec497769" title="Player::updatePlayer" alt="" coords="171,107,313,133"/>
+<area shape="rect" id="node6" href="$class_player.html#a057068f30bb6e25be256f44bc95e58dc" title="Player::collideBarrier" alt="" coords="171,157,313,184"/>
+<area shape="rect" id="node7" href="$class_player.html#a2e2123129b8eeb38b47272ee26d22887" title="Player::collideTurnTile" alt="" coords="167,208,317,235"/>
+<area shape="rect" id="node8" href="$class_player.html#ace632f10845b01e87e3fdb53acc739b5" title="Player::collideCollectable" alt="" coords="157,259,327,285"/>
+<area shape="rect" id="node5" href="$class_barrier.html#ac906aec3bd97e64ed15c74984bd99d4a" title="Barrier::init" alt="" coords="375,107,460,133"/>
+</map>

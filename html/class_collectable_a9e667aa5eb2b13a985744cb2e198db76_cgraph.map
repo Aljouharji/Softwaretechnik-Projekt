@@ -1,0 +1,4 @@
+<map id="Collectable::Collectable" name="Collectable::Collectable">
+<area shape="rect" id="node2" href="$class_collectable.html#addb170ae5407b86711ae85668e20738f" title="Collectable::updateCollectable" alt="" coords="213,5,412,32"/>
+<area shape="rect" id="node3" href="$class_collectable.html#a60d8b1bbff6a058acd0c956c00de36fd" title="Collectable::playSound" alt="" coords="235,56,391,83"/>
+</map>
